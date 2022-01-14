@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Jeff from bqic
+- 👀 I’m interested in creating new services for e- or m-Payments and Banking
+- 💞️ I’m looking to collaborate on any project related to financial services
+- 📫 You can reach me at jeff@bqic.de
